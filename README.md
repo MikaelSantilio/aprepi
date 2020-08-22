@@ -11,11 +11,11 @@ A proposta inicial é entregar um sistema totalmente funcional, e intuitivo, que
 ## Público alvo
 - Sócios; 
 - Benfeitores;
-- Voluntários da Aprepi.
+- Voluntários da APREPI.
 
 
 ## Problema a ser solucionado
-A inexistência de um sistema computacional para ajudar a gerenciar as atividades da Aprepi, vem causando atrasos nas atividades dela, além de exigir um esforço demasiado de voluntários para manter os dados - referentes aos sócios, as consultas e doações - atualizados.
+A inexistência de um sistema computacional para ajudar a gerenciar as atividades da APREPI, vem causando atrasos nas atividades dela, além de exigir um esforço demasiado de voluntários para manter os dados - referentes aos sócios, as consultas e doações - atualizados.
 
 
 ## Funcionalidades
