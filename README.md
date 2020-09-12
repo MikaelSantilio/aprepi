@@ -40,6 +40,10 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
     - Uma ferramenta que permite gerenciar as pessoas que são voluntárias.
 
 
+## Diagrama de Caso de Uso Preliminar
+
+<img src="https://github.com/MikaelSantilio/aprepi/blob/master/diagrama-caso-uso-preliminar.png?raw=true" >
+
 
 
 ## Autores
