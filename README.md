@@ -42,7 +42,7 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 
 ## Diagrama de Caso de Uso Preliminar
 
-<img src="https://github.com/MikaelSantilio/aprepi/blob/master/diagrama-caso-uso-preliminar.png?raw=true" >
+<img src="https://github.com/MikaelSantilio/aprepi/blob/master/diagrama-caso-uso-v2.jpeg?raw=true" >
 
 ## Especificação dos Casos de Uso
 
