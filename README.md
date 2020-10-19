@@ -148,15 +148,15 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O ator faz a autenticação no sistema<br/>2. O ator acessa a opção de Criar Evento<br/>3. O ator informa os dados de entrada<br/>4. O ator clica na opção “Associar participante”<br/>5. O ator associa os participantes do evento<br/>6. O ator clica na opção **Gerenciar Gastos**<br/>7. O ator informa os dados necessários e salva<br/>8. O ator clica na opção **Gerenciar Arrecadações**<br/>9. O ator gerencia as arrecadações para o evento<br/>10. O ator clica em **Criar Evento**<br/>11. O sistema redireciona para a tela onde mostra em detalhes o evento criado<br/>12. Fim do caso de uso |
 | Fluxo alternativo | - |
 
-| UC-10 | Candidatar-se a voluntário |
+| UC-10 | Solicitar cadastro de voluntário |
 | - | - | 
 | Ator principal | Usuário externo |
-| Descrição | O usuário externo candidata-se à vaga de voluntário no sistema |
-| Propósito | Avaliar possíveis voluntários |
+| Descrição | O usuário externo preenche um formulário solicitando o seu cadastro como voluntário no sistema |
+| Propósito | Solicitar cadastro como voluntário por parte do usuário externo |
 | Pré-condição | - |
-| Pós-condição | O funcionário irá verificar os dados do voluntário para o cadastrar|
-| Fluxo principal | O usuário externo deve clicar no botão **Quero ser voluntário** na página inicial e preencher os dados requisitados<br/>O funcionário verifica os dados fornecidos pelo candidato<br/>O funcionário aprova ou não o candidato a voluntário |
-| Fluxo alternativo | O usuário externo deve clicar no botão **Quero ser voluntário** na página inicial e preencher os dados requisitados<br/>O candidato não se enquadra nos pré-requistos para ser voluntário |
+| Pós-condição | Solicitação realizada com sucesso |
+| Fluxo principal | 1. O usuário externo clica na opção **Solicitar cadastro para voluntário** <br/>2. O usuário externo deve preencher os dados requisitados no formulário<br/>3. O sistema notifica o usuário de que a solicitação foi realizada. |
+| Fluxo alternativo | - |
 
 | UC-11 | Cadastrar voluntário |
 | - | - |
