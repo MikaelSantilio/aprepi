@@ -158,6 +158,16 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O usuário externo clica na opção **Solicitar cadastro para voluntário** <br/>2. O usuário externo deve preencher os dados requisitados no formulário<br/>3. O sistema notifica o usuário de que a solicitação foi realizada. |
 | Fluxo alternativo | - |
 
+| UC-11 | Listar solicitações de cadastro para voluntário |
+| - | - | 
+| Ator principal | Funcionário |
+| Descrição | O funcionário lista as solicitações para cadastro de voluntário que estão aguardando por aprovação |
+| Propósito | Listar solicitações de cadastro de voluntários que estão aguardando por aprovação |
+| Pré-condição | O funcionário deve estar autenticado no sistema |
+| Pós-condição | Listagem realizada com sucesso |
+| Fluxo principal | 1. O funcionário loga no sistema.<br/>2. O funcionário clica na opção **Listar solicitações para cadastro de voluntário**<br/>3. O sistema realiza a listagem. |
+| Fluxo alternativo | - |
+
 | UC-11 | Cadastrar voluntário |
 | - | - |
 | Ator principal | Funcionário |
