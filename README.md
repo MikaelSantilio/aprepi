@@ -168,7 +168,7 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O funcionário loga no sistema.<br/>2. O funcionário clica na opção **Listar solicitações para cadastro de voluntário**<br/>3. O sistema realiza a listagem. |
 | Fluxo alternativo | - |
 
-| UC-12 | Aprovar solicitação de cadastro |
+| UC-12 | Aprovar solicitação de cadastro para voluntário |
 | - | - | 
 | Ator principal | Funcionário |
 | Descrição | O funcionário aprova uma solicitação de cadastro de voluntário que estava aguardando por aprovação |
