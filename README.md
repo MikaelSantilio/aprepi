@@ -168,15 +168,15 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O funcionário loga no sistema.<br/>2. O funcionário clica na opção **Listar solicitações para cadastro de voluntário**<br/>3. O sistema realiza a listagem. |
 | Fluxo alternativo | - |
 
-| UC-11 | Cadastrar voluntário |
-| - | - |
+| UC-12 | Aprovar solicitação de cadastro |
+| - | - | 
 | Ator principal | Funcionário |
-| Descrição | O funcionário cadastra um voluntário no sistema |
-| Propósito | Cadastrar os voluntários no sistema |
-| Pré-condição | O candidato deve atender aos pré-requisitos para à vaga |
-| Pós-condição | O funcionário irá cadastrar o voluntário, caso o mesmo atenda aos pré-requisitos |
-| Fluxo principal | O funcionário avalia os dados do candidato<br/>O funcionário o cadastra no sistema |
-| Fluxo alternativo | O funcionário avalia os dados do candidato<br/>O funcionário não o cadastra por o mesmo não atender os pré-requisitos |  
+| Descrição | O funcionário aprova uma solicitação de cadastro de voluntário que estava aguardando por aprovação |
+| Propósito | Aprovar solicitação de cadastro de voluntário e cadastrá-lo no sistema |
+| Pré-condição | O funcionário deve estar autenticado no sistema |
+| Pós-condição | Voluntário cadastrado com sucesso |
+| Fluxo principal | 1. O funcionário loga no sistema.<br/>2. O funcionário clica na opção **Listar solicitações para cadastro de voluntário**<br/>3. O  funcionário clica na opção **Aprovar solicitação**<br/>4. O sistema informa que a solicitação foi aceita e que o voluntário foi cadastrado no sistema. |
+| Fluxo alternativo | - |
 
 ## Autores
 
