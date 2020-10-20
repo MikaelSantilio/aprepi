@@ -41,6 +41,8 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 
 ## Protótipos
 
+[<img src="https://github.com/MikaelSantilio/aprepi/blob/master/capa-prototipos.png?raw=true" >](https://marvelapp.com/prototype/5221hid/screens)
+
 [Link dos protótipos (MarvelApp)](https://marvelapp.com/prototype/5221hid/screens)
 
 
