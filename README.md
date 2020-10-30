@@ -1,7 +1,10 @@
 # SYSPREPI
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/MikaelSantilio/aprepi/blob/master/LICENSE)
 
-<!-- Sistema administrativo da Associação dos Pacientes Renais Crônicos do Estado do Piauí (APREPI) -->
+Sistema administrativo da Associação dos Pacientes Renais Crônicos do Estado do Piauí (APREPI)
+
+## Pré-Projeto
+
 Este projeto apresenta a experiência de desenvolvimento de um sistema de gestão de pessoas para Associação dos Pacientes Renais Crônicos do Estado do Piauí (APREPI). Pretendemos realizar a criação deste sistema através do uso da metodologia Scrum para  gerenciamento e organização, gerando valor por meio  de  entregas  contínuas  de software funcionando.
 
 ### 1    Justificativa
