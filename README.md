@@ -9,9 +9,7 @@ Este projeto apresenta a experiência de desenvolvimento de um sistema de gestã
 
 ### 1    Justificativa
 
-A inexistência de um sistema computacional para ajudar a gerenciar as atividades da  APREPI,  vêm  causando  atrasos  nas  atividades  da  mesma,  além  de  exigir  um  esforço demasiado de voluntários para manter os dados - referentes aos sócios, as consultas e doações- atualizados. Todos esses fatores acabaram motivando o desenvolvimento desse projeto
-
-Nesta seção é apresentada uma revisão bibliográfica sobre gestão de pessoas e gerenciamento de doações, que são pontos importantes para o desenvolvimento deste trabalho
+A inexistência de um sistema computacional para ajudar a gerenciar as atividades da  APREPI,  vêm  causando  atrasos  nas  atividades  da  mesma,  além  de  exigir  um  esforço demasiado de voluntários para manter os dados - referentes aos sócios, as consultas e doações- atualizados. Todos esses fatores acabaram motivando o desenvolvimento desse projeto.
 
 ### 2    Fundamentação Teórica
 
