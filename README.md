@@ -1,7 +1,60 @@
 # SYSPREPI
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/MikaelSantilio/aprepi/blob/master/LICENSE)
 
-Sistema administrativo da Associação dos Pacientes Renais Crônicos do Estado do Piauí (APREPI)
+<!-- Sistema administrativo da Associação dos Pacientes Renais Crônicos do Estado do Piauí (APREPI) -->
+Este projeto apresenta a experiência de desenvolvimento de um sistema de gestão de pessoas para Associação dos Pacientes Renais Crônicos do Estado do Piauí (APREPI). Pretendemos realizar a criação deste sistema através do uso da metodologia Scrum para  gerenciamento e organização, gerando valor por meio  de  entregas  contínuas  de software funcionando.
+
+### 1    Justificativa
+
+A inexistência de um sistema computacional para ajudar a gerenciar as atividades da  APREPI,  vêm  causando  atrasos  nas  atividades  da  mesma,  além  de  exigir  um  esforço demasiado de voluntários para manter os dados - referentes aos sócios, as consultas e doações- atualizados. Todos esses fatores acabaram motivando o desenvolvimento desse projeto
+
+Nesta seção é apresentada uma revisão bibliográfica sobre gestão de pessoas e gerenciamento de doações, que são pontos importantes para o desenvolvimento deste trabalho
+
+### 2    Fundamentação Teórica
+
+Nesta seção é apresentada uma revisão bibliográfica sobre gestão de pessoas e gerenciamento de doações, que são pontos importantes para o desenvolvimento deste trabalho.
+
+#### 2.1    Gestão de pessoas
+
+O desenvolvimento desse projeto tem o intuito de facilitar a atividade de cadastro de voluntários e pessoas acolhidas na instituição. Segundo Júnior e Frega (2016) a tecnologia da informação tem o intuito de apoiar e agilizar as rotinas operacionais, simplificando atividadescorriqueiras.Com o advento tecnológico, a indústria, o modo como a sociedade opera(funciona) vêm sendo alterados rapidamente, pra todo lado que se olhe há alguma aplicação tecnológica, seja um aplicativo, um site, um sistema integrado. Tarefas corriqueiras podem ser realizadas pelo próprio software, de forma automatizada, deixando aquele tempo que seria usado para realizar essas atividades,  disponível para outras afazeres.   Com isso,  ganha-se agilidade e confiabilidade.Dessa maneira, fica perceptível a importância da tecnologia, que está ali para facilitar a vida de todos.  De modo que, cabe a cada um adaptar-se à nova realidade, seja qual for o'setor/área, seja uma ONG, como no caso, ou uma grande empresa privada.
+
+#### 2.2    Gerenciamento de doações
+
+Apesar da demanda de doações não ser tão alta a ponto da instituição não conseguir gerenciar  todas,  ter  um  modo  mais  rápido  e  prático  de  fazê-la,  que  seria  exercendo  essa gerência de maneira informatizada, seria de grande ajuda de forma que economizaria tempo e pessoal. Além de automatizar essa tarefa, o sistema proposto também seria uma maneira de chegar até novos benfeitores, tendo um plataforma que tornaria mais fácil a divulgação do trabalho realizado no local, bem como fornecendo maior praticidade para realizar a doação,tanto para o colaborador quanto para quem recebe.  Pretende-se dessa forma que o número de  doações  cresça  e  não  sofra  demasiadas  oscilações  negativas,  pois  também  preza-se o relacionamento de longo prazo, estimulando através de email ou por meio de aplicativo de mensagens, doações sempre que possível ou ainda informando períodos que a ONG possa vir estar precisando mais.
+
+### 3    Objetivos
+
+#### 3.1    Objetivo Geral
+
+Desenvolvimento de um sistema para a APREPI, buscando melhorar a gestão de pessoas(sócios, benfeitores e voluntários), a interação social, bem como o controle de doações,cestas básicas a serem doadas para os sócios e administrar consultas oferecidas pela instituição.
+
+#### 3.2    Objetivos Específicos
+
+Possibilitar um maior controle das doações recebidas, bem como dos seus benfeitores;
+Melhorar a gestão de pacientes acolhidos, de voluntários da instituição, benfeitores;
+Gerenciar a realização eventos de arrecadação de fundos e de consultas realizadas com diversas especialidades;
+Melhorar, e facilitar, a comunicação entre a instituição e a sociedade.
+
+### 4    Metodologia da Execução do Projeto
+
+A metodologia será Scrum, que consiste em manter o foco e compromisso de cada Sprint, esses que por sua vez serão realizados uma vez por semana, com todas as atividades
+planejadas em reunião anterior com cliente e todo o time, discutindo sempre o backlog equal funcionalidade para o próximo Sprint, onde o time utilizará a plataforma Trello para acompanhar e gerenciar o status de cada atividade.
+
+### 5    Acompanhamento e Avaliação do Projeto
+
+Durante a Execução acompanhamento ocorrerá semanalmente, seja com uma visita à sede da APREPI e/ou uma conversa via aplicativo de mensagens.   Em cada uma dessas etapas,  ou sprints,esperamos  entregar  mais  uma  parte  funcional  do  sistema,  para  que  os  usuários  testem  e tenhamos um feedback deles, e possíveis erros/equívocos sejam percebidos e corrigidos o'mais rápido possível, de modo que o tempo real de produção seja o mais próximo possível daquele estipulado no planejamento inicial.
+
+### 6    Resultados Esperados e Disseminação dos Resultados
+
+A proposta inicial é entregar um programa totalmente funcional, e intuitivo, que possibilite aos usuários realizar, de modo rápido e prático, a gestão de pessoas: sócios, benfeitores, voluntários. Também permitir gerenciar eventos, cestas básicas(recebidas e doadas), e ainda, organizar consultas de diversas especialidades oferecidas pela APREPI. O resultado final será divulgado pelas redes sociais,  pessoais(de cada desenvolvedor) e também as da própria instituição.
+
+### 7    Referências Bibliográficas
+
+JUNIOR, Luiz Pereira Pinheiro, and José Roberto Frega.  "Desempenho da TI: Uma Pesquisa  no  Faturamento  Eletrônico  nas  Empresas."Americas  Conference  on  Information Systems (AMCIS). Association For Information Systems, 2016.
+
+PASSOS,  Isabela  C.,  et  al.   "SISTEMA  DE  GERENCIAMENTO  DE DOAÇÕES SANGUÍNEAS-SGDS."
+
+PESTANA, Maria Cláudia et al . Desafios da sociedade do conhecimento e gestão de pessoas em sistemas de informação. Ci. Inf., Brasília , v. 32, n. 2, p. 77-84, Aug. 2003.
 
 
 ## Descrição
@@ -42,6 +95,7 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 ## Protótipos
 
 [<img src="https://github.com/MikaelSantilio/aprepi/blob/master/capa-prototipos.png?raw=true" >](https://marvelapp.com/prototype/5221hid/screens)
+
 
 [Link dos protótipos (MarvelApp)](https://marvelapp.com/prototype/5221hid/screens)
 
