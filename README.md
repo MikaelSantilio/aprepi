@@ -205,7 +205,56 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O ator faz a autenticação no sistema<br/>2. O ator acessa a opção de Criar Evento<br/>3. O ator informa os dados de entrada<br/>4. O ator clica na opção “Associar participante”<br/>5. O ator associa os participantes do evento<br/>6. O ator clica na opção **Gerenciar Gastos**<br/>7. O ator informa os dados necessários e salva<br/>8. O ator clica na opção **Gerenciar Arrecadações**<br/>9. O ator gerencia as arrecadações para o evento<br/>10. O ator clica em **Criar Evento**<br/>11. O sistema redireciona para a tela onde mostra em detalhes o evento criado<br/>12. Fim do caso de uso |
 | Fluxo alternativo | - |
 
-| UC-10 | Solicitar cadastro de voluntário |
+
+| UC-10 | Editar Evento |
+| - | - |
+| Ator principal | Funcionário |
+| Descrição | O funcionário edita um evento cadastrado no sistema. |
+| Propósito | Editar evento que está cadastrado no sistema |
+| Pré-condição | Estar logado no sistema |
+| Pós-condição | Ser possível visualizar evento editado pelo o ator |
+| Fluxo principal | 
+1. O ator faz a autenticação no sistema<br/>
+2. O ator acessa a opção de Listar Eventos<br/>
+3. O ator clica na opção Editar de algum evento na lista<br/>
+4. O sistema retorna um formulario para editar os dados do Evento<br/>
+5. O ator muda os dados<br/>
+6. O ator clica na opção **Salvar alterações**<br/>
+7. O salva as alterações do Evento<br/>
+11. O sistema redireciona para a tela onde mostra em detalhes o evento editado.<br/>
+12. Fim do caso de uso |
+| Fluxo alternativo | - |
+
+
+| UC-11 | Apagar Evento |
+| - | - |
+| Ator principal | Funcionário |
+| Descrição | O funcionário apaga um evento cadastrado no sistema. |
+| Propósito | Apagar evento que está cadastrado no sistema |
+| Pré-condição | Estar logado no sistema |
+| Pós-condição | Apagar o evento do sistema |
+| Fluxo principal | 
+1. O ator faz a autenticação no sistema<br/>
+2. O ator acessa a opção de Listar Eventos<br/>
+3. O ator clica na opção Apagar de algum evento na lista<br/>
+4. O sistema retorna um alerta se o usuário quer mesmo apagar o Evento<br/>
+5. O ator Clica em Confirmar<br/>
+7. O sistema apaga o Evento<br/>
+11. O sistema redireciona para a tela de listagem de Eventos.<br/>
+12. Fim do caso de uso |
+| Fluxo alternativo | - |
+
+| UC-12 | Doar para evento |
+| - | - |
+| Ator principal | Funcionário |
+| Descrição | O funcionário cadastra uma doação para um evento no sistema. |
+| Propósito | Cadastrar uma doação para um evento no sistema |
+| Pré-condição | Estar logado no sistema |
+| Pós-condição | Ser possível visualizar evento criado pelo o ator |
+| Fluxo principal | 1. O ator faz a autenticação no sistema<br/>2. O ator acessa a opção de Criar Evento<br/>3. O ator informa os dados de entrada<br/>4. O ator clica na opção “Associar participante”<br/>5. O ator associa os participantes do evento<br/>6. O ator clica na opção **Gerenciar Gastos**<br/>7. O ator informa os dados necessários e salva<br/>8. O ator clica na opção **Gerenciar Arrecadações**<br/>9. O ator gerencia as arrecadações para o evento<br/>10. O ator clica em **Criar Evento**<br/>11. O sistema redireciona para a tela onde mostra em detalhes o evento criado<br/>12. Fim do caso de uso |
+| Fluxo alternativo | - |
+
+| UC-13 | Solicitar cadastro de voluntário |
 | - | - | 
 | Ator principal | Usuário externo |
 | Descrição | O usuário externo preenche um formulário solicitando o seu cadastro como voluntário no sistema |
@@ -215,7 +264,7 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O usuário externo clica na opção **Solicitar cadastro para voluntário** <br/>2. O usuário externo deve preencher os dados requisitados no formulário<br/>3. O sistema notifica o usuário de que a solicitação foi realizada. |
 | Fluxo alternativo | - |
 
-| UC-11 | Listar solicitações de cadastro para voluntário |
+| UC-14 | Listar solicitações de cadastro para voluntário |
 | - | - | 
 | Ator principal | Funcionário |
 | Descrição | O funcionário lista as solicitações para cadastro de voluntário que estão aguardando por aprovação |
@@ -225,7 +274,7 @@ A inexistência de um sistema computacional para ajudar a gerenciar as atividade
 | Fluxo principal | 1. O funcionário loga no sistema.<br/>2. O funcionário clica na opção **Listar solicitações para cadastro de voluntário**<br/>3. O sistema realiza a listagem. |
 | Fluxo alternativo | - |
 
-| UC-12 | Aprovar solicitação de cadastro para voluntário |
+| UC-15 | Aprovar solicitação de cadastro para voluntário |
 | - | - | 
 | Ator principal | Funcionário |
 | Descrição | O funcionário aprova uma solicitação de cadastro de voluntário que estava aguardando por aprovação |
